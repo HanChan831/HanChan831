@@ -9,7 +9,7 @@
 :books: Campus Student | :robot: Artificial Intelligence | :arrow_right: Hongkong SAR
 
 [![Blog](https://img.shields.io/badge/-https://hamiltonblog.cn/-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://hamiltonblog.cn/)  [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&style=flat-square&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DHanChan831&longCache=true)](https://github.com/HanChan831)
-[![Email](https://img.shields.io/badge/-hanjiangxue@hamiltonblog.cn-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:hanjiangxue@hamiltonblog.cn)
+[![Email](https://img.shields.io/badge/-hanchansnow@gmail.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:hanchansnow@gmail.com)
 [![windows11](https://img.shields.io/badge/Windows-11-2376bc?style=flat&logo=microsoft&logoColor=ffffff)](https://img.shields.io/badge/Windows-11-2376bc?style=flat&logo=microsoft&logoColor=ffffff)  [![debian](https://img.shields.io/badge/Linux%20Debian-FCC624?style=flat&logo=linux&logoColor=black)](https://img.shields.io/badge/Linux%20Debian-FCC624?style=flat&logo=linux&logoColor=black)  [![macos](https://img.shields.io/badge/MacOS-333?style=plastic&logo=apple&logoColor=white)](https://img.shields.io/badge/MacOS-333?style=plastic&logo=apple&logoColor=white)
 
 
