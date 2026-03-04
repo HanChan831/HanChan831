@@ -1,10 +1,10 @@
-## HanChan | 寒江在下雪
+## Han Chan | 寒江在下雪
 
 <a href="#">
 <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=HanChan831&layout=compact' width="400px" />
 </a>
 
->I’d just be the catcher in the rye and all.
+>I’d just be the catcher in the rye and all
 
 :books: Campus Student | :robot: Artificial Intelligence | :arrow_right: Hongkong SAR
 
@@ -14,6 +14,8 @@
 
 
 :wave:Hi there, I'm HanChan, you could call my Chinese name 寒江在下雪 as well.
+
+PGP: 81AC AA31 8B47 BC70 324F F255 79B7 6A96 FBA7 9E53
 
 <a href="#">
 <img align="right" src='https://github-readme-stats.vercel.app/api?username=HanChan831&show_icons=true&theme=transparent' width="400px" />
@@ -26,14 +28,6 @@
 :computer:Pursuing opportunities to develop expertise in data analysis and algorithms. Firmly believe that technological advancement should be a catalyst for the progress of whole humanity equally.
 
 :bookmark_tabs:Continually developing ideas for articles to publish on my [blog](https://hamiltonblog.cn/). However, I am working on improving my ability to express myself clearly.
-
-## Programming Website Account
-
-Blog: https://hamiltonblog.cn/
-
-Leetcode(China): https://leetcode.cn/u/elegant-mooreveq/
-
-
 
 ---
 
