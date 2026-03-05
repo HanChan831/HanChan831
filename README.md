@@ -49,15 +49,6 @@ PGP: 81AC AA31 8B47 BC70 324F F255 79B7 6A96 FBA7 9E53
 
 <tr><td>
 
-### Recent Blog
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-</tr></td>
-
-<tr><td>
-
 <div align="center">
 <picture>
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=HanChan831&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
@@ -80,6 +71,7 @@ PGP: 81AC AA31 8B47 BC70 324F F255 79B7 6A96 FBA7 9E53
 <table>
 <td><img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=HanChan831&theme=solarized&border_color=0000&bg_color=0000"/></td>
 <td><img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=HanChan831&theme=solarized&border_color=0000&bg_color=0000"/></td>
+<td><img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=HanChan831&utcOffset=8&theme=solarized&border_color=0000&bg_color=0000"/></td>
 </table>
 
 <div align="center" >
@@ -111,10 +103,6 @@ PGP: 81AC AA31 8B47 BC70 324F F255 79B7 6A96 FBA7 9E53
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
-  <tr>
-    <td><img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=HanChan831&utcOffset=8&theme=solarized&border_color=0000&bg_color=0000"/" alt="productive time" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/github-metrics/stars.svg" alt="stars" /></td>
