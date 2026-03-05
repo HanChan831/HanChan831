@@ -113,4 +113,7 @@ PGP: 81AC AA31 8B47 BC70 324F F255 79B7 6A96 FBA7 9E53
     <td><img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
 </table>
+
+<img width="120%" src="https://repobeats.axiom.co/api/embed/6351e47b4d24d1fa5a92d9dca9d7a836be9f637d.svg" />
+
 </div>
