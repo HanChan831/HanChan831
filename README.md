@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Have%20a%20nice%20day!;早午晚安您好!&center=true&size=27)](https://git.io/typing-svg)
 
-<img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/assets/avatar.png" width="120" style="border-radius:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/assets/avatar.png" width="200" style="border-radius:50%;" />
 
 # Han Chan | 寒江在下雪
 
@@ -14,36 +14,7 @@
 
   ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat) ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat) [![windows11](https://img.shields.io/badge/Windows-11-2376bc?style=flat&logo=microsoft&logoColor=ffffff)](https://img.shields.io/badge/Windows-11-2376bc?style=flat&logo=microsoft&logoColor=ffffff) [![arch](https://img.shields.io/badge/Linux%20Arch-FCC624?style=flat&logo=linux&logoColor=black)](https://img.shields.io/badge/Linux%20Debian-FCC624?style=flat&logo=linux&logoColor=black) [![macos](https://img.shields.io/badge/MacOS-333?style=plastic&logo=apple&logoColor=white)](https://img.shields.io/badge/MacOS-333?style=plastic&logo=apple&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white) ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
-  <style>
-    .pgp-wrapper {
-      display: inline-block;
-      position: relative;
-      font-family: monospace;
-      cursor: pointer;
-    }
-    .pgp-text {
-      color: transparent;
-      transition: color 0.2s ease;
-    }
-    .pgp-wrapper::before {
-      content: "████ ████ ████ ████ ████ ████ ████ ████ ████ ████";
-      position: absolute;
-      inset: 0;
-      background: #000;
-      color: #000;
-      border-radius: 4px;
-    }
-    .pgp-wrapper:hover .pgp-text {
-      color: #000;
-    }
-    .pgp-wrapper:hover::before {
-      opacity: 0;
-    }
-  </style>
-
-  <div class="pgp-wrapper">
-    <span class="pgp-text">PGP: 81AC AA31 8B47 BC70 324F F255 79B7 6A96 FBA7 9E53</span>
-  </div>
+PGP: 81AC AA31 8B47 BC70 324F F255 79B7 6A96 FBA7 9E53
 
 </div>
 
