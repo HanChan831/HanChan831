@@ -34,4 +34,4 @@ jobs:
           build_dir: dist
           keep_history: true
         env:
-          REPO_TOKEN: ${{ secrets.REPO_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
