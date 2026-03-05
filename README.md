@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Have%20a%20nice%20day!;早午晚安您好!&center=true&size=27)](https://git.io/typing-svg)
 
-<img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/assets/avatar.png" width="200" style="border-radius:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831@main/assets/avatar.png" width="200" style="border-radius:50%;" />
 
 # Han Chan | 寒江在下雪
 
@@ -21,9 +21,9 @@ PGP: 81AC AA31 8B47 BC70 324F F255 79B7 6A96 FBA7 9E53
 <div>&nbsp;</div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831@main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831@main/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831@main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 <table>
@@ -57,7 +57,7 @@ PGP: 81AC AA31 8B47 BC70 324F F255 79B7 6A96 FBA7 9E53
 
 <div align="center">
 <picture>
-    <img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/github-metrics/base.svg" alt="GitHub Metrics" /></a>
+    <img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831@main/github-metrics/base.svg" alt="GitHub Metrics" /></a>
 </picture>
 </div>
 
@@ -76,41 +76,41 @@ PGP: 81AC AA31 8B47 BC70 324F F255 79B7 6A96 FBA7 9E53
 
 <div align="center" >
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831@main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831@main/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831@main/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
 </div>
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831@main/assets/images/hr.gif" />
 
 <div align="center">
 
-<img width="36%" src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/assets/images/githubgif.gif" />
+<img width="36%" src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831@main/assets/images/githubgif.gif" />
 
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/github-metrics/people.followers.svg" alt="people.followers" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831@main/github-metrics/people.followers.svg" alt="people.followers" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/github-metrics/reactions.svg" alt="reactions" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831@main/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831@main/github-metrics/reactions.svg" alt="reactions" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831@main/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831@main/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831@main/github-metrics/stars.svg" alt="stars" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831@main/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831@main/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831@main/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
 </table>
 
