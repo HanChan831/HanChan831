@@ -1,25 +1,72 @@
-## Han Chan | 寒江在下雪
+<div align="center">
 
-<a href="#">
-<img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=HanChan831&layout=compact' width="400px" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Have%20a%20nice%20day!;早午晚安您好!&center=true&size=27)](https://git.io/typing-svg)
 
->I’d just be the catcher in the rye and all
+<img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/assets/avatar.png" width="120" style="border-radius:50%;" />
 
-:books: Campus Student | :robot: Artificial Intelligence | :arrow_right: Hongkong SAR
+# Han Chan | 寒江在下雪
 
-[![Blog](https://img.shields.io/badge/-https://hamiltonblog.cn/-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://hamiltonblog.cn/)  [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&style=flat-square&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DHanChan831&longCache=true)](https://github.com/HanChan831)
-[![Email](https://img.shields.io/badge/-hanchansnow@gmail.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:hanchansnow@gmail.com)
-[![windows11](https://img.shields.io/badge/Windows-11-2376bc?style=flat&logo=microsoft&logoColor=ffffff)](https://img.shields.io/badge/Windows-11-2376bc?style=flat&logo=microsoft&logoColor=ffffff)  [![debian](https://img.shields.io/badge/Linux%20Debian-FCC624?style=flat&logo=linux&logoColor=black)](https://img.shields.io/badge/Linux%20Debian-FCC624?style=flat&logo=linux&logoColor=black)  [![macos](https://img.shields.io/badge/MacOS-333?style=plastic&logo=apple&logoColor=white)](https://img.shields.io/badge/MacOS-333?style=plastic&logo=apple&logoColor=white)
+<div>
+  <a href="https://hamiltonblog.cn/"><img src="https://img.shields.io/badge/-hamiltonblog.cn-0e83cd?style=flat-square&logo=Blogger&logoColor=fff" /></a>&emsp;
+  <a href="mailto:hanchansnow@gmail.com"><img src="https://img.shields.io/badge/-hanchansnow@gmail.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438" /></a>&emsp;
+  <!-- visitor -->
+  <img src="https://komarev.com/ghpvc/?username=HanChan831&label=Views&color=39C5BB&style=flat" alt="访问量统计" />&emsp;
+
+  ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat) ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat) [![windows11](https://img.shields.io/badge/Windows-11-2376bc?style=flat&logo=microsoft&logoColor=ffffff)](https://img.shields.io/badge/Windows-11-2376bc?style=flat&logo=microsoft&logoColor=ffffff) [![arch](https://img.shields.io/badge/Linux%20Arch-FCC624?style=flat&logo=linux&logoColor=black)](https://img.shields.io/badge/Linux%20Debian-FCC624?style=flat&logo=linux&logoColor=black) [![macos](https://img.shields.io/badge/MacOS-333?style=plastic&logo=apple&logoColor=white)](https://img.shields.io/badge/MacOS-333?style=plastic&logo=apple&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white) ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+
+  <style>
+    .pgp-wrapper {
+      display: inline-block;
+      position: relative;
+      font-family: monospace;
+      cursor: pointer;
+    }
+    .pgp-text {
+      color: transparent;
+      transition: color 0.2s ease;
+    }
+    .pgp-wrapper::before {
+      content: "████ ████ ████ ████ ████ ████ ████ ████ ████ ████";
+      position: absolute;
+      inset: 0;
+      background: #000;
+      color: #000;
+      border-radius: 4px;
+    }
+    .pgp-wrapper:hover .pgp-text {
+      color: #000;
+    }
+    .pgp-wrapper:hover::before {
+      opacity: 0;
+    }
+  </style>
+
+  <div class="pgp-wrapper">
+    <span class="pgp-text">PGP: 81AC AA31 8B47 BC70 324F F255 79B7 6A96 FBA7 9E53</span>
+  </div>
+
+</div>
+
+<div>&nbsp;</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+<table>
+
+---
+
+[![visitor](https://api.moedog.org/count/@HanChan831.readme)](https://api.moedog.org/count/@HanChan831.readme)
 
 
-:wave:Hi there, I'm HanChan, you could call my Chinese name 寒江在下雪 as well.
+<tr><td>
 
-PGP: 81AC AA31 8B47 BC70 324F F255 79B7 6A96 FBA7 9E53
+### About
 
-<a href="#">
-<img align="right" src='https://github-readme-stats.vercel.app/api?username=HanChan831&show_icons=true&theme=transparent' width="400px" />
-</a>
+:wave:Hi there, I'm Han Chan, you could call my Chinese name 寒江在下雪 as well.
 
 :mortar_board:Currently enrolled as a campus student, where I am pursuing a degree in Artificial Intelligence.
 
@@ -27,9 +74,84 @@ PGP: 81AC AA31 8B47 BC70 324F F255 79B7 6A96 FBA7 9E53
 
 :computer:Pursuing opportunities to develop expertise in data analysis and algorithms. Firmly believe that technological advancement should be a catalyst for the progress of whole humanity equally.
 
-:bookmark_tabs:Continually developing ideas for articles to publish on my [blog](https://hamiltonblog.cn/). However, I am working on improving my ability to express myself clearly.
+</tr></td>
 
----
+<tr><td>
 
-[![visitor](https://api.moedog.org/count/@HanChan831.readme)](https://api.moedog.org/count/@HanChan831.readme)
+### Recent Blog
 
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
+
+</tr></td>
+
+<tr><td>
+
+<div align="center">
+<picture>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=HanChan831&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+</picture>
+</div>
+
+<div align="center">
+<picture>
+    <img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/github-metrics/base.svg" alt="GitHub Metrics" /></a>
+</picture>
+</div>
+
+<div align="center">
+<picture>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=HanChan831&bg_color=ffffff&color=000000&line=39c5bb&point=f97583&area=true&hide_border=true" alt="GitHub Streak" /></a>
+</picture>
+</div>
+</tr></td>
+
+<table>
+<td><img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=HanChan831&theme=solarized&border_color=0000&bg_color=0000"/></td>
+<td><img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=HanChan831&theme=solarized&border_color=0000&bg_color=0000"/></td>
+</table>
+
+<div align="center" >
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/profile-3d-contrib/profile-night-rainbow.svg" />
+</picture>
+
+</div>
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/assets/images/hr.gif" />
+
+<div align="center">
+
+<img width="36%" src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/assets/images/githubgif.gif" />
+
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/github-metrics/people.followers.svg" alt="people.followers" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/github-metrics/reactions.svg" alt="reactions" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+  </tr>
+  <tr>
+    <td><img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=HanChan831&utcOffset=8&theme=solarized&border_color=0000&bg_color=0000"/" alt="productive time" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/github-metrics/stars.svg" alt="stars" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/HanChan831/HanChan831/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+  </tr>
+</table>
+</div>
