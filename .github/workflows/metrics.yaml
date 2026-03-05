@@ -23,7 +23,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: HanChan831
           template: classic
-          config_timezone: Asia/Shanghai
+          config_timezone: Asia/Hong_Kong
           base: "header, activity, community, repositories"
           plugin_traffic: yes
           plugin_lines: yes
