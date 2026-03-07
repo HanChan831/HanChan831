@@ -7,7 +7,7 @@
 # Han Chan | 寒江在下雪
 
 <div>
-  <a href="https://hamiltonblog.cn/"><img src="https://img.shields.io/badge/-hamiltonblog.cn-0e83cd?style=flat-square&logo=Blogger&logoColor=fff" /></a>&emsp;
+  <a href="https://hanchan.vip/"><img src="https://img.shields.io/badge/-hanchan.vip-0e83cd?style=flat-square&logo=Blogger&logoColor=fff" /></a>&emsp;
   <a href="mailto:hanchansnow@gmail.com"><img src="https://img.shields.io/badge/-hanchansnow@gmail.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438" /></a>&emsp;
   <!-- visitor -->
   <img src="https://komarev.com/ghpvc/?username=HanChan831&label=Views&color=39C5BB&style=flat" alt="访问量统计" />&emsp;
