@@ -8,13 +8,13 @@
 
 <div>
   <a href="https://hanchan.vip/"><img src="https://img.shields.io/badge/-hanchan.vip-0e83cd?style=flat-square&logo=Blogger&logoColor=fff" /></a>&emsp;
-  <a href="mailto:hanchansnow@gmail.com"><img src="https://img.shields.io/badge/-hanchansnow@gmail.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438" /></a>&emsp;
+  <a href="mailto:hanchansnow@outlook.com"><img src="https://img.shields.io/badge/-hanchansnow@outlook.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438" /></a>&emsp;
   <!-- visitor -->
   <img src="https://komarev.com/ghpvc/?username=HanChan831&label=Views&color=39C5BB&style=flat" alt="访问量统计" />&emsp;
 
   ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat) ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat) [![windows11](https://img.shields.io/badge/Windows-11-2376bc?style=flat&logo=microsoft&logoColor=ffffff)](https://img.shields.io/badge/Windows-11-2376bc?style=flat&logo=microsoft&logoColor=ffffff) [![arch](https://img.shields.io/badge/Linux%20Arch-FCC624?style=flat&logo=linux&logoColor=black)](https://img.shields.io/badge/Linux%20Debian-FCC624?style=flat&logo=linux&logoColor=black) [![macos](https://img.shields.io/badge/MacOS-333?style=plastic&logo=apple&logoColor=white)](https://img.shields.io/badge/MacOS-333?style=plastic&logo=apple&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white) ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
-PGP: 81AC AA31 8B47 BC70 324F F255 79B7 6A96 FBA7 9E53
+PGP: 7755 9C03 2079 FEFF 9980  BACE 5994 8F82 C658 9EA5
 
 </div>
 
